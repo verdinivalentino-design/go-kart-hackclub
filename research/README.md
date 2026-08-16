@@ -4,6 +4,6 @@ Here I expose a summary of the information I know and I am searching for the pro
 
 ### 1 -⚙️ [Kart Mechanics](./mechanics/README.md)
 
-### 2 - ♻️ - [Biomass Fuel](./biomass/README.md)
+### 2 - ♻️ - [Biomass Fuel](./biomassFuel/README.md)
 
 ### 3 - 📟 - [Control Telemetry](./sensors/README.md)
