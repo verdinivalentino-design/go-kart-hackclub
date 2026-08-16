@@ -1,7 +1,4 @@
-# 📄Documentation
+# 📋💲Budget BOM (Bill of materials)
 
-### Here you will find the main resources and documentation of the project.
-
-### 📋💲Budget BOM (Bill of materials)
-### ✏️📐Kart Blueprints
-### ⚡​🔌​Electric Diagram
+### Click here to view the CSV file
+Or click the file
