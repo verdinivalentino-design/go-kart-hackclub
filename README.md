@@ -2,14 +2,14 @@
 > `A functional biomass-powered Kart with IoT Telemetry`
 
 
-## 📄[Documentation](./Documentation) (Hack Club requirements)
+## 📄[Documentation](./documentation) (Hack Club requirements)
 Here you will find the main resources and documentation of the project.
-#### 📋💲[Budget BOM (Bill of materials)](./Documentation/Budget)
+#### 📋💲[Budget BOM (Bill of materials)](./documentation/budget)
 #### ✏️📐Kart Blueprints
 #### ⚡​🔌​Electric Diagram
 
 ## 🔎[Research](./Research)
-### Check the fundamentation of the project [here](./Research) 
+### Check the fundamentation of the project [here](./research) 
 
 ## 📰Updates⚙️
 ### Check my recent progress building and working here
