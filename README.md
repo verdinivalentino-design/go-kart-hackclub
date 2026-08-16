@@ -22,7 +22,7 @@ Here you will find the main resources and documentation of the project.
 ## Who's behind & Why
 
 Hello! I am Valentino, an Argentine Electromechanics Technician Student, enthusiastic about Physics and Science. I have always wanted to learn about vehicle mechanics and apply some of my electronics knowledge (which is currently expanding). This kart project has always been something I wanted to do, but I didn't have the money. Recently I discovered Hack Club, and I haven't stopped searching and learning since then to document this and make it a reality.
-!(./images/casual/yosentado.png)
+![](./images/casual/yosentado.png)
 
 ## What is this project?
 
