@@ -34,8 +34,7 @@ Check all my research [here](./documentation)
 
 This Biomass can be used as a fuel and was implemented on a combustion engine by one of my idols, the Argentine Engineer [Edmundo Ramos](https://tn.com.ar/sociedad/2026/02/17/un-cordobes-creo-un-auto-que-funciona-con-basura-planea-viajar-a-brasil-y-busca-copiloto-los-requisitos/), who developed this system and made guides for everyone to build it, featured on his website [www.autoabasura.com](https://autoabasura.com/home/).
 
-Also, this will work because I am in the penultimate year of my Technical Electromechanics and Mechatronics School ["4-117 Ejército de Los Andes ENET"](https://www.instagram.com/4117ejercitodelosandes?wa_status_inline=true) and I have the support and encouragement of my teachers. I have made many projects and courses on my own and with my school, which you can check [Here](https://www.linkedin.com/in/valentino-verdini-barbadillo/).
-
+Also, this will work because I am on the penultimate year of my Technical Electromechanics and Mechatronics School ["4-117 Ejército de Los Andes ENET"](https://www.instagram.com/4117ejercitodelosandes?wa_status_inline=true) and I have the support and encouragement of my teachers. I have made many projects and courses on my own and with my school, which you can check [Here](https://www.linkedin.com/in/valentino-verdini-barbadillo/). Also I consider myself a very active person that dont give up and always try till get the result. Thanks for reading and reach the bottom of this presentation.
 
 
 
