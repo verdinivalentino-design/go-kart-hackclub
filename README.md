@@ -2,16 +2,19 @@
 > `A functional biomass-powered Kart with IoT Telemetry`
 
 
-## 📄Documentation (Hack Club requirements)
+## 📄[Documentation](./Documentation) (Hack Club requirements)
 Here you will find the main resources and documentation of the project.
-#### 📋💲Budget BOM (Bill of materials)
+#### 📋💲[Budget BOM (Bill of materials)](./Documentation/Budget)
 #### ✏️📐Kart Blueprints
 #### ⚡​🔌​Electric Diagram
 
-## ⚙️Building🔌
-### Check my recent progress here
+## 🔎[Research](./Research)
+### Check the fundamentation of the project [here](./Research) 
 
-#
+## 📰Updates⚙️
+### Check my recent progress building and working here
+
+
 # ♻️Biomass Kart🏎️
 
  
@@ -26,6 +29,8 @@ Hello! I am Valentino, an Argentine Electromechanics Technician Student, enthusi
 It consists of a functional Buggy Kart which works with a Combustion Engine Motor, but is adapted to work with an incomplete combustion of organic residue (more info below, keep reading), adding to this some sensors for gas, speed, temperature, among others, controlled by a microcontroller like the ESP32. 
 
 ## It will work.
+
+Check all my research here
 
 This Biomass can be used as a fuel and was implemented on a combustion engine by one of my idols, the Argentine Engineer [Edmundo Ramos](https://tn.com.ar/sociedad/2026/02/17/un-cordobes-creo-un-auto-que-funciona-con-basura-planea-viajar-a-brasil-y-busca-copiloto-los-requisitos/), who developed this system and made guides for everyone to build it, featured on his website [www.autoabasura.com](https://autoabasura.com/home/).
 
