@@ -1,13 +1,13 @@
 Item,Description,Price (USD),URL
 Stage 1: General Kart Mechanics,,,
-Motorbike Motor,"4-stroke engine 110cc, includes clutch, gearbox, electric starter, harness",$305.00,https://www.mercadolibre.com.ar/motor-corven-110cc-0km/up/MLAU4741166240
+Motorbike Motor,"4-stroke engine 110cc, includes clutch, gearbox, power on, etc.",$305.00,https://www.mercadolibre.com.ar/motor-corven-110cc-0km/up/MLAU4741166240
 Structural Steel Tubing,"1 1/4 inch round steel tubing for chassis. Quantity: 12m",$44.00,https://www.mercadolibre.com.ar/cano-estructural-redondo-114-317mm-x-16mm--bar-x-6mt/up/MLAU3640604015
 Rear Axle,"30mm solid SAE 1045 steel axle. Quantity: 1m",$5.00,https://www.mercadolibre.com.ar/barra-acero-trefilado-redondo-1045--diametro-30-mm-x-300-mm/up/MLAU4192277497
 Ball Bearing with Pillow Blocks,"Pillow block bearing units UCP 206. Quantity: 2",$30.00,https://www.mercadolibre.com.ar/soporte-con-ruleman-ucp-206-eje-30mm-ms-rodamientos/up/MLAU267201413
 Sprocket Pinion and drive chain,Secondary Transmission,$31.00,https://www.mercadolibre.com.ar/kir-corona-pinon-honda-wave-s-110-afs-cadena-dorada-far/up/MLAU3492298425
 Tires and Wheels,"Set of tires and rims for Go-Kart. Quantity: 4",$208.00,https://www.mercadolibre.com.ar/cubierta-de-cuatriciclo-duro-145706-145-70-6-hf240-rpm1240/up/MLAU253505100
-Rear Wheels Suspension,"Trailing-arm, Homemade. Includes shock absorbers, coils, and bolts",$50.00,https://www.mercadolibre.com.ar/juego-amortiguadores-far-honda-new-titan-150-cc/up/MLAU295146645
-Front Wheels Suspension,"Double-wishbone, Homemade. Includes shock absorbers, coils, and bolts",$50.00,https://www.mercadolibre.com.ar/juego-amortiguadores-far-honda-new-titan-150-cc/up/MLAU295146645
+Rear Wheels Suspension,"Trailing-arm, Homemade. Beside the shock absorbers and coils, price includes bolts and hardware",$50.00,https://www.mercadolibre.com.ar/juego-amortiguadores-far-honda-new-titan-150-cc/up/MLAU295146645
+Front Wheels Suspension,"Double-wishbone, Homemade. Beside the shock absorbers and coils, price includes bolts and hardware",$50.00,https://www.mercadolibre.com.ar/juego-amortiguadores-far-honda-new-titan-150-cc/up/MLAU295146645
 Steering System,"Homemade steering hardware (bolts, iron bars, tie rods)",$50.00,Local purchase / Workshop
 Brake System,Disc brake system adapted from motorcycle,$42.00,https://articulo.mercadolibre.com.ar/MLA-1748391175-conjunto-freno-trasero-110-140cc-crf-xr-bomba-caliper-15mm-_JM
 Stage 2: Biomass Gasifier (Wood Gas),,,
@@ -26,12 +26,12 @@ Filter Miscellaneous Materials,"Foam rubber, oil, plastic filter plates for filt
 Plastic T & Reducer,"25mm (1 in) Plastic T and 25 to 19mm (1 to 3/4 in) reducer",$2.00,Local purchase / Workshop
 Metal Ball Valve,"25mm (1 in) Metal ball valve (AFR)",$14.00,Local purchase / Workshop
 Stage 3: IoT Telemetry & Electronics,,,
-MAX6675 + K-Type Thermocouple,"Temperature measurement module for gasifier. Quantity: 1",$4.00,Local purchase / Workshop
-MQ7 CO Sensor Module,"Carbon monoxide (CO) concentration sensor. Quantity: 1",$3.30,Local purchase / Workshop
-A3144 Hall Effect Sensor,"Magnetic sensor to measure engine RPM. Quantity: 1",$2.10,Local purchase / Workshop
-0.96 in I2C OLED Display,"128x64 OLED display for local telemetry. Quantity: 1",$5.00,Local purchase / Workshop
-ESP32 WROOM Board,"IoT Microcontroller with WiFi + Bluetooth. Quantity: 1",$11.00,Local purchase / Workshop
-ESP32 CASE,Protective enclosure for ESP32 board,$9.00,https://www.mercadolibre.com.ar/gabinete-caja-para-esp32/up/MLAU3640604015
-12V Rectifier Regulator,"Voltage regulator/rectifier (Motomel 200 style) to stabilize alternator AC output",$6.00,Local purchase / Workshop
-Power Conditioning & Buck Converter,"LM2596 DC-DC Buck Converter (12V to 5V) + 2200uF 25V Capacitor filter",$2.50,Local purchase / Workshop
-TOTAL PROJECT COST (USD),,,$788.90
+MAX6675 + K-Type Thermocouple,"Temperature measurement module for gasifier. Quantity: 1",$9.00,https://www.mercadolibre.com.ar/modulo-acondicionador-max6675-termocupla-tipo-k-unoelectro/p/MLA2043281139
+MQ7 CO Sensor Module,"Carbon monoxide (CO) concentration sensor. Quantity: 1",$3.37,https://www.mercadolibre.com.ar/mq7-modulo-sensor-co-mono-oxido-de-carbono-arduino-2gtech/p/MLA2068500058
+A3144 Hall Effect Sensor,"Magnetic sensor to measure engine RPM. Quantity: 1",$2.11,https://www.mercadolibre.com.ar/sensor-efecto-hall-a3144-detector-campo-magnetico-nubbeo/up/MLAU264084314
+0.96 in I2C OLED Display,"128x64 OLED display for local telemetry. Quantity: 1",$5.00,https://www.mercadolibre.com.ar/display-arduino-i2c-oled-096-blanco-128x64-ssd1306/p/MLA46872021
+ESP32 WROOM Board,"IoT Microcontroller with WiFi + Bluetooth. Quantity: 1",$11.00,https://www.mercadolibre.com.ar/nodemcu-esp32-38-pines-usb-c-wifi-bluetooth-placa-desarrollo-iot-compatible-arduino/p/MLA42485623
+ESP32 CASE,Protective enclosure for ESP32 board,$9.00,https://www.mercadolibre.com.ar/gabinete-caja-plastica-para-electronica-pcb-abs-155x80x45mm/up/MLAU3923219641
+12V Rectifier Regulator,"Stabilizes and regulates current from the engine alternator",$6.72,https://www.mercadolibre.com.ar/regulador-voltaje-motomel-dakar-200-4-cables-con-capacitor/up/MLAU2935743403
+5V Regulation Buck Converter,5V regulation to power ESP32 and sensors,$0.00,Local purchase / Workshop
+TOTAL PROJECT COST (USD),,,$781.72
