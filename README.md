@@ -5,14 +5,14 @@
 ## 📄[Documentation](./documentation) (Hack Club requirements)
 Here you will find the main resources and documentation of the project.
 #### 📋💲[Budget BOM (Bill of materials)](./documentation/budget)
-#### ✏️📐Kart Blueprints
-#### ⚡​🔌​Electric Diagram
+#### [✏️📐Kart Blueprints](./blueprints)
+<!--#### ⚡​🔌​Electric Diagram*/-->
 
 ## 🔎[Research](./Research)
 ### Check the fundamentation of the project [here](./research) 
 
 ## 📰Updates⚙️
-### Check my recent progress building and working here
+### Check my recent progress building and working [here](https://macondo.hackclub.com/projects/15880)
 
 
 # ♻️Biomass Kart🏎️
