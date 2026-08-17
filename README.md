@@ -7,7 +7,7 @@
 Here you will find the main resources and documentation of the project.
 #### 📋💲[Budget BOM (Bill of materials)](./documentation/budget)
 #### [✏️📐Kart Blueprints](./documentation/blueprints)
-<!--#### ⚡​🔌​Electric Diagram*/-->
+#### [⚡​🔌​Electric Diagram](./documentation/wiring)
 
 ## 🔎[Research](./Research)
 ### Check the fundamentation of the project [here](./research) 
