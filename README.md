@@ -1,3 +1,4 @@
+![](./images/casuals/kart.jpeg)
 # ♻️Biomass Kart🏎️
 > `A functional biomass-powered Kart with IoT Telemetry`
 
