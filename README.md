@@ -5,7 +5,7 @@
 ## 📄[Documentation](./documentation) (Hack Club requirements)
 Here you will find the main resources and documentation of the project.
 #### 📋💲[Budget BOM (Bill of materials)](./documentation/budget)
-#### [✏️📐Kart Blueprints](./blueprints)
+#### [✏️📐Kart Blueprints](./documentation/blueprints)
 <!--#### ⚡​🔌​Electric Diagram*/-->
 
 ## 🔎[Research](./Research)
