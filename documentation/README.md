@@ -4,4 +4,4 @@
 
 ### [📋💲Budget BOM (Bill of materials)](./budget)
 ### [✏️📐Kart Blueprints](./blueprints)
-### [⚡​🔌​Electric Diagram](./documentation/wiring.jpg)
+### [⚡​🔌​Electric Diagram](./wiring.jpg)
